@@ -2,7 +2,7 @@
 
 ## Eu sou Larissa Ávila.
 
-:computer:Estudante de Ciência da Computação - Unifal    
+:computer:Estudante de Ciência da Computação - Unifal (4° período) 
 :house_with_garden:Brasil
 
 ## Sobre mim
